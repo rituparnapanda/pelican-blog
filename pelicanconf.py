@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'rituparna'
-SITENAME = u'rituparna.com'
+AUTHOR = u'Rituparna Panda'
+SITENAME = u'Random Thoughts'
 SITEURL = ''
 
 TIMEZONE = 'Asia/Kolkata'
@@ -24,8 +24,9 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-    ('Twitter', 'https://twitter.com/rituparna02'),
+    ('twitter-square', 'https://twitter.com/rituparna02'),
     ('Linkedin', 'http://in.linkedin.com/in/rituparna02'),
+    ('github', 'http://github.com/rituparnapanda'),
 )
 
 DEFAULT_PAGINATION = 10
