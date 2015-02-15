@@ -25,7 +25,7 @@ LINKS =  (
 # Social widget
 SOCIAL = (
     ('twitter-square', 'https://twitter.com/rituparna02'),
-    ('Linkedin', 'http://in.linkedin.com/in/rituparna02'),
+    ('linkedin', 'http://in.linkedin.com/in/rituparna02'),
     ('github', 'http://github.com/rituparnapanda'),
 )
 
@@ -34,6 +34,8 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+STATIC_PATHS = ['images']
+COVER_IMG_URL = 'images/cover.jpg'
 PROFILE_IMAGE_URL = 'images/profile.jpg'
 PATH = 'content'
 THEME = 'pure-theme'
