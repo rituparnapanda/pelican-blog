@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Rituparna Panda'
 SITENAME = u'Random Thoughts'
-SITEURL = ''
+SITEURL = 'rituparnapanda.github.io'
 
 TIMEZONE = 'Asia/Kolkata'
 
@@ -32,10 +32,10 @@ SOCIAL = (
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 STATIC_PATHS = ['images']
-COVER_IMG_URL = 'images/cover.jpg'
-PROFILE_IMAGE_URL = 'images/profile.jpg'
-PATH = 'content'
-THEME = 'pure-theme'
+COVER_IMG_URL = '/images/cover.jpg'
+PROFILE_IMG_URL = '/images/profile.jpg'
+THEME = 'pure-single'
+READERS = {'html': None}
