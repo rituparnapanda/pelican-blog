@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Random Thoughts</title><link href="rituparnapanda.github.io/" rel="alternate"></link><link href="rituparnapanda.github.io/feeds/rituparna-panda.atom.xml" rel="self"></link><id>rituparnapanda.github.io/</id><updated>2014-06-27T00:00:00+05:30</updated><entry><title>First NCR Pyladies Meetup</title><link href="rituparnapanda.github.io/first-ncr-pyladies-meetup.html" rel="alternate"></link><updated>2014-06-27T00:00:00+05:30</updated><author><name>Rituparna Panda</name></author><id>tag:,2014-06-27:rituparnapanda.github.io/first-ncr-pyladies-meetup.html</id><summary type="html">&lt;p&gt;Heard about women coding, women python programmers meetup , hackathons etc
+a lot, but apparently everything happened in the western world. I was keen to
+find out women developers here in India. On June 14th, 2014 - 4 women
+(out of them 3 were python developers) finally met for the first time
+at Noida for Pyladies Meetup.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Yay we made it&lt;/em&gt; :-)&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="" src="images/pyladies.jpg" /&gt;
+&lt;/div&gt;
+&lt;p&gt;On our first Meetup, we discussed about:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Each others interest&lt;/li&gt;
+&lt;li&gt;Setting up a new project and Github repository&lt;/li&gt;
+&lt;li&gt;Introduction of virtual environment and Python&lt;/li&gt;
+&lt;li&gt;And agenda for next Meetup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It was very exciting, meeting and talking about our challenges and issues.
+I called some of my male colleagues to help us and they were very positive
+and enthusiastic while helping us.&lt;/p&gt;
+&lt;p&gt;We planned to meet every month atleast once and learn coding together. If
+anyone is interested, then please follow us on
+&lt;a class="reference external" href="http://www.meetup.com/PyladiesIndia/"&gt;Meetup.com&lt;/a&gt;
+and know more about our upcoming meetup.&lt;/p&gt;
+</summary><category term="meetup"></category></entry><entry><title>Hello World</title><link href="rituparnapanda.github.io/hello-world.html" rel="alternate"></link><updated>2014-06-01T00:00:00+05:30</updated><author><name>Rituparna Panda</name></author><id>tag:,2014-06-01:rituparnapanda.github.io/hello-world.html</id><summary type="html">&lt;p&gt;This is my first pelican blog.&lt;/p&gt;
+</summary></entry></feed>
