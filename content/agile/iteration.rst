@@ -5,7 +5,7 @@ What agile means to me
 :author: Rituparna Panda
 :tags: agile
 :summary: Agile methodology is a vast concept, I am going to write what we
-have extracted from it.
+          have extracted from it.
 
 
 todo..
