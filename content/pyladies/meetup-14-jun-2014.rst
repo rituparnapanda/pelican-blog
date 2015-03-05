@@ -7,11 +7,11 @@ First NCR Pyladies Meetup
 :tags: meetup
 :summary: First NCR Pyladies Meetup
 
-Heard about women coding, women python programmers meetup , hackathons etc
-a lot, but apparently everything happened in the western world. I was keen to
-find out women developers here in India. On June 14th, 2014 - 4 women
-(out of them 3 were python developers) finally met for the first time
-at Noida for Pyladies Meetup. 
+I was following Pyladies from quite a long time, and I was keen to start the
+chapter here in India. Finally we could start one on our own. I am so
+excited to announce that on June 14th, 2014 - 4 women (out of them 3 were
+python developers) finally met for the first time at Noida for Pyladies Meetup.
+
 
 *Yay we made it* :-)
 
