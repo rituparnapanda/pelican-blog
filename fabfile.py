@@ -50,9 +50,7 @@ def cf_upload():
           'upload -c {cloudfiles_container} .'.format(**env))
 
 def publish():
-    local('git checkout master')
-    local('cp -a output/* .')
-    local('git add .')
-    local('git commit -am "Update build"')
-    local('git push')
-    local('git checkout master')
+    local('pelican -s publishconf.py')
+    # Master because its a user page
+    local('ghp-import output -b master')
+    local('git push -f origin master')
