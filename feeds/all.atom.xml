@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Random Thoughts</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2014-06-27T00:00:00+05:30</updated><entry><title>First NCR Pyladies Meetup</title><link href="/first-ncr-pyladies-meetup.html" rel="alternate"></link><updated>2014-06-27T00:00:00+05:30</updated><author><name>Rituparna Panda</name></author><id>tag:,2014-06-27:first-ncr-pyladies-meetup.html</id><summary type="html">&lt;p&gt;I was following Pyladies from quite a long time, and I was keen to start the
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Random Thoughts</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-05-03T00:00:00+05:30</updated><entry><title>What agile means to me</title><link href="/what-agile-means-to-me.html" rel="alternate"></link><updated>2015-05-03T00:00:00+05:30</updated><author><name>Rituparna Panda</name></author><id>tag:,2015-05-03:what-agile-means-to-me.html</id><summary type="html">&lt;p&gt;We all have studied about various project development methodologies in school.
+Waterfall was one of the primary and prefered development methodology at that
+time and was purely used by almost all the companies. Now a days Agile has
+replaced all the old development life cycles and companies prefer agile over
+waterfall. I have worked with both kinds of projects and personally I would
+prefer agile project development.&lt;/p&gt;
+&lt;p&gt;Agile is my prefered project development because the agile team focuses on
+getting the minimum viable product (MVP) out first. Over the time the
+product becomes stable with continuous end to end testing with end users.&lt;/p&gt;
+&lt;p&gt;I have few pros and cons listed down about agile development (these points may
+not be true in every cases, the pros and cons is entirely based on my
+experience with project development) :&lt;/p&gt;
+&lt;div class="section" id="pros"&gt;
+&lt;h2&gt;Pros :&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Project development runs in warp speed : agile development is usually
+fast because team focus on small user stories and complete it in one or
+two sprint.&lt;/li&gt;
+&lt;li&gt;No need of understanding complex business process in one go : every
+business have same goal (ie. being best at what they do) but works on
+different principles. It is not easy for development team to understand
+the entire process all in one and find a solution. Agile makes it easier
+for team members to focus into one small segments at a time.&lt;/li&gt;
+&lt;li&gt;Customer works closely with development team and the feedback and
+suggestion loop becomes faster and continuous.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="cons"&gt;
+&lt;h2&gt;Cons :&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Most of the developers in the team are not aware of end goal of the project.&lt;/li&gt;
+&lt;li&gt;The solution given to the customers is a copy of their requirement, which
+is sometimes not the right solution to their problems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary><category term="agile"></category></entry><entry><title>First NCR Pyladies Meetup</title><link href="/first-ncr-pyladies-meetup.html" rel="alternate"></link><updated>2014-06-27T00:00:00+05:30</updated><author><name>Rituparna Panda</name></author><id>tag:,2014-06-27:first-ncr-pyladies-meetup.html</id><summary type="html">&lt;p&gt;I was following Pyladies from quite a long time, and I was keen to start the
 chapter here in India. Finally we could start one on our own. I am so
 excited to announce that on June 14th, 2014 - 4 women (out of them 3 were
 python developers) finally met for the first time at Noida for Pyladies Meetup.&lt;/p&gt;
@@ -22,5 +57,4 @@ anyone is interested, then please follow us on
 &lt;a class="reference external" href="http://www.meetup.com/PyladiesIndia/"&gt;Meetup.com&lt;/a&gt;
 and know more about our upcoming meetup.&lt;/p&gt;
 </summary><category term="meetup"></category></entry><entry><title>Hello World</title><link href="/hello-world.html" rel="alternate"></link><updated>2014-06-01T00:00:00+05:30</updated><author><name>Rituparna Panda</name></author><id>tag:,2014-06-01:hello-world.html</id><summary type="html">&lt;p&gt;This is my first pelican blog.&lt;/p&gt;
-</summary></entry><entry><title>What agile means to me</title><link href="/what-agile-means-to-me.html" rel="alternate"></link><updated>2014-03-03T00:00:00+05:30</updated><author><name>Rituparna Panda</name></author><id>tag:,2014-03-03:what-agile-means-to-me.html</id><summary type="html">&lt;p&gt;Agile....&lt;/p&gt;
-</summary><category term="agile"></category></entry></feed>
+</summary></entry></feed>
